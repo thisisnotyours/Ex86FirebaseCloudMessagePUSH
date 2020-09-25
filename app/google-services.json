@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51040798537",
+    "firebase_url": "https://ex86fcmpushsuhyun.firebaseio.com",
+    "project_id": "ex86fcmpushsuhyun",
+    "storage_bucket": "ex86fcmpushsuhyun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51040798537:android:d0248dda253ef31d20fc98",
+        "android_client_info": {
+          "package_name": "com.suek.ex86firebasecloudmessagepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51040798537-hvl2dsihd4tol842hmv4h2b2n8p520i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnsDSKLvYyJPWSslGzsPHURnv0qudfHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51040798537-hvl2dsihd4tol842hmv4h2b2n8p520i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
